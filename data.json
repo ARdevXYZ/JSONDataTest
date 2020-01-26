@@ -1,7 +1,7 @@
 {
   "title": "Word of the Day",
   "description": "Your app fetched this from a remote endpoint!",
-  "movies": [
+  "words": [
     { "id": "1", "title": "Convivial", "wordDefintition": "(of an atmosphere or event) friendly, lively, and enjoyable." },
     { "id": "2", "title": "Concomitant", "wordDefintition": "naturally accompanying or associated." },
     { "id": "3", "title": "Condign", "wordDefintition": "(of punishment or retribution) appropriate to the crime or wrongdoing; fitting and deserved." },

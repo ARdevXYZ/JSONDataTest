@@ -2,10 +2,10 @@
   "title": "words",
   "description": "word of the day list",
   "words": [
-    { "id": "1", "title": "Convivial", "wordDefintition": "(of an atmosphere or event) friendly, lively, and enjoyable." },
-    { "id": "2", "title": "Concomitant", "wordDefintition": "naturally accompanying or associated." },
-    { "id": "3", "title": "Condign", "wordDefintition": "(of punishment or retribution) appropriate to the crime or wrongdoing; fitting and deserved." },
-    { "id": "4", "title": "Melliferous", "wordDefintition": "yielding or producing honey." },
-    { "id": "5", "title": "Commodious", "wordDefintition": "(especially of furniture or a building) roomy and comfortable." }
+    { "id": "1", "title": "Convivial", "wordDefinitition": "(of an atmosphere or event) friendly, lively, and enjoyable." },
+    { "id": "2", "title": "Concomitant", "wwordDefinitition": "naturally accompanying or associated." },
+    { "id": "3", "title": "Condign", "wordDefinitition": "(of punishment or retribution) appropriate to the crime or wrongdoing; fitting and deserved." },
+    { "id": "4", "title": "Melliferous", "wordDefinitition": "yielding or producing honey." },
+    { "id": "5", "title": "Commodious", "wordDefinitition": "(especially of furniture or a building) roomy and comfortable." }
   ]
 }

@@ -2,13 +2,13 @@
   "title": "words",
   "description": "word of the day list",
   "words": [
-    { "id": "1", "title": "convivial", "lexicalCategory": "Adjective", "registers": null, "wordDefinition": "(of an atmosphere or event) friendly, lively, and enjoyable." },
+    { "id": "1", "title": "convivial", "lexicalCategory": "Adjective", "registers": "", "wordDefinition": "(of an atmosphere or event) friendly, lively, and enjoyable." },
     { "id": "2", "title": "concomitant", "lexicalCategory": "Adjective, Noun", "registers": "formal", "wordDefinition": "naturally accompanying or associated." },
     { "id": "3", "title": "condign", "lexicalCategory": "Adjective", "registers": "formal", "wordDefinition": "(of punishment or retribution) appropriate to the crime or wrongdoing; fitting and deserved." },
-    { "id": "4", "title": "melliferous", "lexicalCategory": "Adjective", "registers": "null", "wordDefinition": "yielding or producing honey." },
+    { "id": "4", "title": "melliferous", "lexicalCategory": "Adjective", "registers": "", "wordDefinition": "yielding or producing honey." },
     { "id": "5", "title": "commodious", "lexicalCategory": "Adjective", "registers": "formal", "wordDefinition": "(especially of furniture or a building) roomy and comfortable." },
-    { "id": "6", "title": "conflagration", "lexicalCategory": "noun", "registers": "null", "wordDefinition": "an extensive fire which destroys a great deal of land or property" },
+    { "id": "6", "title": "conflagration", "lexicalCategory": "noun", "registers": "", "wordDefinition": "an extensive fire which destroys a great deal of land or property" },
     { "id": "7", "title": "forsooth", "lexicalCategory": "adverb", "registers": "archaic or humorous",  "wordDefinition": "an extensive fire which destroys a great deal of land or property" },
-    { "id": "7", "title": "besmirch", "lexicalCategory": "verb", "registers": "null",  "wordDefinition": "damage the reputation of (someone or something) in the opinion of others" }
+    { "id": "7", "title": "besmirch", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "damage the reputation of (someone or something) in the opinion of others" }
   ]
 }

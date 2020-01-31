@@ -1,14 +1,42 @@
 {
-  "title": "words",
-  "description": "word of the day list",
-  "words": [
-    { "id": "1", "title": "convivial", "lexicalCategory": "Adjective", "registers": "", "wordDefinition": "(of an atmosphere or event) friendly, lively, and enjoyable." },
-    { "id": "2", "title": "concomitant", "lexicalCategory": "Adjective, Noun", "registers": "formal", "wordDefinition": "naturally accompanying or associated." },
-    { "id": "3", "title": "condign", "lexicalCategory": "Adjective", "registers": "formal", "wordDefinition": "(of punishment or retribution) appropriate to the crime or wrongdoing; fitting and deserved." },
-    { "id": "4", "title": "melliferous", "lexicalCategory": "Adjective", "registers": "", "wordDefinition": "yielding or producing honey." },
-    { "id": "5", "title": "commodious", "lexicalCategory": "Adjective", "registers": "formal", "wordDefinition": "(especially of furniture or a building) roomy and comfortable." },
-    { "id": "6", "title": "conflagration", "lexicalCategory": "noun", "registers": "", "wordDefinition": "an extensive fire which destroys a great deal of land or property" },
-    { "id": "7", "title": "forsooth", "lexicalCategory": "adverb", "registers": "archaic or humorous",  "wordDefinition": "an extensive fire which destroys a great deal of land or property" },
-    { "id": "7", "title": "besmirch", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "damage the reputation of (someone or something) in the opinion of others" }
-  ]
-}
+    "title": "words",
+    "description": "word of the day list",
+    "words": [
+      { "id": "1", "title": "convivial", "lexicalCategory": "Adjective", "registers": "", "wordDefinition": "(of an atmosphere or event) friendly, lively, and enjoyable." },
+      { "id": "2", "title": "concomitant", "lexicalCategory": "Adjective, Noun", "registers": "formal", "wordDefinition": "naturally accompanying or associated." },
+      { "id": "3", "title": "condign", "lexicalCategory": "Adjective", "registers": "formal", "wordDefinition": "(of punishment or retribution) appropriate to the crime or wrongdoing; fitting and deserved." },
+      { "id": "4", "title": "melliferous", "lexicalCategory": "Adjective", "registers": "", "wordDefinition": "yielding or producing honey." },
+      { "id": "5", "title": "commodious", "lexicalCategory": "Adjective", "registers": "formal", "wordDefinition": "(especially of furniture or a building) roomy and comfortable." },
+      { "id": "6", "title": "conflagration", "lexicalCategory": "noun", "registers": "", "wordDefinition": "an extensive fire which destroys a great deal of land or property" },
+      { "id": "7", "title": "forsooth", "lexicalCategory": "adverb", "registers": "archaic or humorous",  "wordDefinition": "an extensive fire which destroys a great deal of land or property" },
+      { "id": "7", "title": "besmirch", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "damage the reputation of (someone or something) in the opinion of others" },
+      { "id": "8", "title": "felicitate", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "congratulate" },
+      { "id": "9", "title": "remonstrance", "lexicalCategory": "noun", "registers": "",  "wordDefinition": "a forcefully reproachful protest" },
+      { "id": "10", "title": "ternary", "lexicalCategory": "adjective", "registers": "",  "wordDefinition": "composed of three parts." },
+      { "id": "11", "title": "bullock", "lexicalCategory": "adjective", "registers": "",  "wordDefinition": "another term for steer" },
+      { "id": "12", "title": "equivocation", "lexicalCategory": "noun", "registers": "",  "wordDefinition": "the use of ambiguous language to conceal the truth or to avoid committing oneself; prevarication" },
+      { "id": "13", "title": "rusticate", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "go to, live in, or spend time in the country" },
+      { "id": "14", "title": "emulous", "lexicalCategory": "adjective", "registers": "formal",  "wordDefinition": "seeking to emulate or imitate someone or something" },
+      { "id": "15", "title": "aggrandize", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "increase the power, status, or wealth of" },
+      { "id": "16", "title": "prevaricate", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "speak or act in an evasive way" },
+      { "id": "17", "title": "dignify", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "make (something) seem worthy and impressive" },
+      { "id": "18", "title": "wherewith", "lexicalCategory": "relative adverb", "registers": "formal or archaic",  "wordDefinition": "with or by which" },
+      { "id": "19", "title": "extirpate", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "root out and destroy completely" },
+      { "id": "20", "title": "tremulous", "lexicalCategory": "adjective", "registers": "",  "wordDefinition": "shaking or quivering slightly" },
+      { "id": "21", "title": "annuity", "lexicalCategory": "noun", "registers": "",  "wordDefinition": "a fixed sum of money paid to someone each year, typically for the rest of their life" },
+      { "id": "22", "title": "premise", "lexicalCategory": "noun", "registers": "",  "wordDefinition": "a previous staement or proposition form which another is inferred or fllows as a conclusion" },
+      { "id": "23", "title": "appertain", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "(appertain to) relate to; concern" },
+      { "id": "24", "title": "vicinal", "lexicalCategory": "adjective", "registers": "rare",  "wordDefinition": "neighboring; adjacent." },
+      { "id": "25", "title": "liminal", "lexicalCategory": "adjective", "registers": "technical",  "wordDefinition": "relating to a transitional or initial stage of a process" },
+      { "id": "26", "title": "niveous", "lexicalCategory": "adjective", "registers": "literary",  "wordDefinition": "snowy or resembling snow" },
+      { "id": "27", "title": "idem", "lexicalCategory": "adverb", "registers": "",  "wordDefinition": "used in citations to indicate an author or work that has just been mentioned" },
+      { "id": "28", "title": "inimical", "lexicalCategory": "adjective", "registers": "",  "wordDefinition": "tending to obstruct or harm" },
+      { "id": "29", "title": "Anodyne", "lexicalCategory": "adjective", "registers": "",  "wordDefinition": "not likely to provoke dissent or offense; inoffensive, often deliberately so" },
+      { "id": "30", "title": "elide", "lexicalCategory": "verb", "registers": "",  "wordDefinition": "omit (a sound or syllable) when speaking; join together; merge" },
+      { "id": "31", "title": "Moorings", "lexicalCategory": "noun", "registers": "",  "wordDefinition": "a place where a boat or ship is moored" },
+      { "id": "32", "title": "depredation", "lexicalCategory": "noun", "registers": "",  "wordDefinition": "an act of attacking or plundering" },
+      { "id": "33", "title": "tawny", "lexicalCategory": "adjective", "registers": "",  "wordDefinition": "of an orange-brown or yellowish-brown color" },
+      { "id": "34", "title": "ere", "lexicalCategory": "preposition & conjuction", "registers": "literary or archaic",  "wordDefinition": "before (in time)" }
+    ]
+  }
+  
